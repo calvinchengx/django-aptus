@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Django Aptus',
-    version='0.0.4',
+    version='0.0.5',
     packages=['aptus', ],
     license='LICENSE',
     description='useful django functionality',
